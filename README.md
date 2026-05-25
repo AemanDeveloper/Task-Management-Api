@@ -5,7 +5,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![REST API](https://img.shields.io/badge/API-REST-green)
 
-# Task Management API
 
 ## Setup
 
