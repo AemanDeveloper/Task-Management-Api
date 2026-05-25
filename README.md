@@ -1,5 +1,12 @@
 # Task Management API
 
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+![PHP](https://img.shields.io/badge/PHP-8-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![REST API](https://img.shields.io/badge/API-REST-green)
+
+# Task Management API
+
 ## Setup
 
 composer install
